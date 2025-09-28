@@ -31,32 +31,6 @@ Tout est conçu pour analyser **CSV/Excel**, générer des **insights**, visuali
 
 ---
 
-## 🗂️ Project Structure
-
-```text
-AI-Data-Analyst-Agent/
-├── backend/                 
-│   ├── api/                 
-│   ├── services/            
-│   ├── models/              
-│   └── utils/               
-├── frontend/                
-│   └── main.py              
-├── tests/                   
-│   ├── test_llm_service.py
-│   └── test_cleaning_service.py
-├── data/                    
-├── requirements.txt         
-├── .gitignore
-├── .env.example             
-├── Makefile                 
-└── README.md
-
-
-
-
----
-
 
 
 ## 🚀 Installation
