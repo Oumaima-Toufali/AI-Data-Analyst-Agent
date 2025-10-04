@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+#env/
+#ENV/
+#*.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# HTML exports from notebooks
+.html
+
+# Data files
+*.csv
+
+# Miscellaneous
+makefile
