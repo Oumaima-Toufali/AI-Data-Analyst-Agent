@@ -27,7 +27,7 @@ Upload your **CSV/Excel** files, generate **insights**, and ask questions in **n
 | Backend API  | [FastAPI](https://fastapi.tiangolo.com)     |
 | Data Analysis| `pandas`, `ydata-profiling`, `sweetviz`, `autoviz` |
 | Visualization| `plotly`, `matplotlib`, `seaborn`, `lux`    |
-| Database     | SQLite (chat history)                       |
+| Memory     | FAISS (chat history)                       |
 
 ---
 
