@@ -1,4 +1,4 @@
-# 🤖 AI Data Analyst Agent (GPT-4.1 + LangChain)
+# 🤖 AI Data Analyst Agent (GPT-4.1 + LangChain + ReAct + FAISS)
 
 An **AI-powered agent** for data analysis and visualization.  
 Built with **FastAPI** and **Streamlit**, integrating **GPT-4.1 via LangChain**, automated **EDA**, and interactive **visualizations**.  
@@ -44,7 +44,12 @@ AI-Data-Analyst-Agent/
 │── README.md
 │── .env      # Example environment variables
 ```
+## 🖼️ Interface Preview
 
+### 🏠 DataSense UI
+<p align="center">
+  <img src="DataSense.png" width="700" alt="DataSense" />
+</p>
 ---
 
 ## 🚀 Installation
