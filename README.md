@@ -48,7 +48,7 @@ AI-Data-Analyst-Agent/
 
 ### 🏠 DataSense UI
 <p align="center">
-  <img src="DataSense.png" width="700" alt="DataSense" />
+  <img src="datasense agent.png" width="700" alt="DataSense" />
 </p>
 ---
 
